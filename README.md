@@ -1,6 +1,6 @@
-# Mina zkApp: Private Inputs And Hash Functions
+# Mina zkApp
 
-This template uses TypeScript.
+This is a project to illustrate how to build privacy in zk-app with embedded characteristics of Mina.
 
 ## How to build
 

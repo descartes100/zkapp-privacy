@@ -2,6 +2,8 @@
 
 This is a project to illustrate how to build privacy in zk-app with embedded characteristics of Mina.
 
+The [smart contract](https://berkeley.minaexplorer.com/transaction/CkpZH5LBeBpspZz73rsNCgvEUGG3PkhuBiLkUasV93eJRJQaRGGze) is published on berkeley testnet.
+
 ## How to build
 
 ```sh
